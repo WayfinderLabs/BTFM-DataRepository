@@ -1,2 +1,2 @@
-# BattleTech-Field-Manual-Companion
-BattleTech Field Manual companion app - repository for source and game data references.
+# BattleTech-Field-Manual-DataRepository
+BattleTech Field Manual companion app repository for source and game data references.
